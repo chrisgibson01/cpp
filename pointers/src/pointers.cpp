@@ -32,4 +32,6 @@ int main()
 
     pa = nullptr;
     print(pa, "int(*pa)[] = nullptr");
+
+    return 0;
 }
